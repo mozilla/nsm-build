@@ -1,4 +1,4 @@
-. ./common.sh
+. ~/nsm-build/common.sh
 
 PKGNAME=libcaf
 
